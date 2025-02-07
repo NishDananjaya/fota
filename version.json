@@ -1,4 +1,10 @@
-     {
-       "version": "1.0.1",
-       "bin_url": "https://raw.githubusercontent.com/NishDananjaya/fota/main/firmware.bin"
-     }
+{
+  "esp8266": {
+    "version": "1.0.1",
+    "bin_url": "https://raw.githubusercontent.com/MadeeshaLakshan/ESP8266_FOTA_PUBLIC/main/ESP8266.ino.bin"
+  },
+  "esp32": {
+    "version": "1.0.1",
+    "bin_url": "https://raw.githubusercontent.com/MadeeshaLakshan/ESP8266_FOTA_PUBLIC/main/FOTA_with_github_public_repo.ino.bin"
+  }
+}
